@@ -569,3 +569,202 @@ extracapsular rupture | linguine sign | stepladder sign | snowstorm sign | post-
 Lung-RADS v2022 | C-RADS | Node-RADS | Bethesda | Fleischner 2017 | BI-RADS 5th edition | TNM 8th edition
 Gustilo-Anderson | Atlanta classification | Tönnis | Crowe | UTD | Evans index | RANO 2.0 | Lugano classification
 Deauville 5-point scale | Danis-Weber | Stanford classification | Hounsfield
+[msk]
+frontal bone | parietal bone | occipital bone | sphenoid bone | ethmoid bone | zygomatic bone | maxilla | mandible | lacrimal bone | palatine bone
+vomer | hyoid bone | cervical vertebra | thoracic vertebra | lumbar vertebra | vertebral arch | articular facet | vertebral foramen | manubrium | sternal body
+xiphoid process | clavicle | scapula | coracoid process | humerus | surgical neck | humeral shaft | medial epicondyle | lateral epicondyle | olecranon fossa
+radius | radial neck | radial tuberosity | radial styloid | ulna | olecranon | coronoid process | ulnar styloid | interosseous membrane | proximal phalanx
+middle phalanx | distal phalanx | sesamoid bone | ilium | iliac crest | iliac wing | iliac spine | anterior superior iliac spine | anterior inferior iliac spine | posterior superior iliac spine
+ischium | ischial tuberosity | ischial spine | pubis | pubic ramus | pubic symphysis | obturator foramen | femur | intertrochanteric line | intertrochanteric crest
+femoral shaft | linea aspera | medial femoral condyle | lateral femoral condyle | patellar facet | trochlear groove | tibia | tibial plateau | medial tibial plateau | lateral tibial plateau
+tibial tuberosity | tibial spine | intercondylar eminence | medial malleolus | fibula | fibular head | lateral malleolus | talar dome | talar neck | calcaneal tuberosity
+sustentaculum tali | medial cuneiform | intermediate cuneiform | lateral cuneiform | metatarsal | Lisfranc joint | hallux | rib | first rib | cervical rib
+costal cartilage | costovertebral joint | costotransverse joint | skull base | foramen magnum | jugular foramen | foramen ovale | foramen spinosum | foramen rotundum | foramen lacerum
+hypoglossal canal | stylomastoid foramen | carotid canal | optic canal | glenohumeral joint | sternoclavicular joint | elbow joint | radiocapitellar joint | ulnohumeral joint | proximal radioulnar joint
+wrist joint | radiocarpal joint | midcarpal joint | carpometacarpal joint | metacarpophalangeal joint | interphalangeal joint | hip joint | knee joint | tibiofemoral joint | proximal tibiofibular joint
+distal tibiofibular joint | ankle joint | talocrural joint | subtalar joint | talonavicular joint | calcaneocuboid joint | tarsometatarsal joint | metatarsophalangeal joint | zygapophyseal joint | atlantoaxial joint
+atlanto-occipital joint | temporomandibular joint | meniscal tear | popliteus tendon | iliotibial band | supraspinatus tendon | infraspinatus tendon | teres minor tendon | subscapularis tendon | long head of biceps tendon
+biceps anchor | superior labrum | acromioclavicular ligament | coracoacromial ligament | coracoclavicular ligament | peroneal tendon | tibialis posterior tendon | tibialis anterior tendon | flexor hallucis longus tendon | flexor tendon
+extensor tendon | annular pulley | interspinous ligament | supraspinous ligament | nuchal ligament | iliolumbar ligament | deltoid muscle | supraspinatus muscle | infraspinatus muscle | teres minor muscle
+teres major muscle | subscapularis muscle | biceps brachii | triceps brachii | brachialis | brachioradialis | pronator teres | flexor carpi radialis | flexor carpi ulnaris | extensor carpi radialis
+extensor carpi ulnaris | extensor digitorum | pectoralis major | pectoralis minor | serratus anterior | latissimus dorsi | trapezius | rhomboid major | rhomboid minor | levator scapulae
+sternocleidomastoid | scalene muscle | longus colli | psoas major | iliacus | gluteus maximus | piriformis | obturator internus | obturator externus | quadratus femoris
+tensor fasciae latae | quadriceps femoris | rectus femoris | vastus medialis | vastus lateralis | vastus intermedius | sartorius | gracilis | adductor longus | adductor brevis
+adductor magnus | biceps femoris | semitendinosus | semimembranosus | gastrocnemius | soleus | tibialis anterior | flexor digitorum longus | extensor hallucis longus | extensor digitorum longus
+rectus abdominis | external oblique | internal oblique | transversus abdominis | diaphragm | erector spinae | multifidus | quadratus lumborum | paraspinal muscle | masseter
+temporalis | pterygoid muscle | pseudogout | osteomalacia | comminuted fracture | greenstick fracture | Salter-Harris fracture | Galeazzi fracture | Monteggia fracture | boxer's fracture
+scaphoid fracture | compression fracture | teardrop fracture | tendon tear | tendon retraction | bursitis | impingement | frozen shoulder | Baker cyst | Morton neuroma
+degenerative disc disease | disc herniation | Modic change | Schmorl node | spinal stenosis | foraminal stenosis | cauda equina syndrome | radial nerve | axillary nerve | musculocutaneous nerve
+brachial plexus | sciatic nerve | femoral nerve | obturator nerve | tibial nerve | common peroneal nerve | superficial peroneal nerve | deep peroneal nerve | pudendal nerve | lumbosacral plexus
+dorsal root ganglion | Guyon canal | first metacarpal | second metacarpal | third metacarpal | fourth metacarpal | fifth metacarpal | first metatarsal | second metatarsal | third metatarsal
+fourth metatarsal | fifth metatarsal | proximal interphalangeal joint | distal interphalangeal joint | boutonniere deformity | swan neck deformity | Dupuytren contracture | bipartite patella | calcaneonavicular coalition | talocalcaneal coalition
+enthesophyte | bone spur | traction spur | syndesmophyte | dagger sign | subacromial subdeltoid bursa | acromion type | cam morphology | pincer morphology | labral tear hip
+osteochondral defect | pigmented villonodular synovitis | desmoid tumour | muscle tear | grade 1 strain | grade 2 strain | grade 3 strain | Goutallier classification | normal marrow signal | marrow oedema pattern
+marrow replacement | fatty marrow conversion | red marrow reconversion | marrow infiltration | marrow fibrosis | joint space preserved | osteophyte formation | cartilage thinning | cartilage loss | chondral fissure
+soft tissue swelling | soft tissue oedema | fascial oedema | subcutaneous oedema | cellulitis | abscess formation | fistulous tract | normal alignment maintained | angulation | shortening
+rotation deformity | hardware in situ | orthopaedic hardware | screw | plate | intramedullary nail | prosthesis | arthroplasty | loosening | periprosthetic fracture
+periprosthetic lucency
+
+[neuro]
+frontal lobe | parietal lobe | temporal lobe | occipital lobe | cingulate gyrus | genu of corpus callosum | splenium of corpus callosum | extreme capsule | subthalamic nucleus | substantia nigra
+red nucleus | cerebral peduncle | tegmentum | tectum | quadrigeminal plate | superior colliculus | inferior colliculus | cerebellum | cerebellar hemisphere | cerebellar tonsil
+middle cerebellar peduncle | lateral ventricle | frontal horn | occipital horn | atrium of lateral ventricle | mammillary body | dentate gyrus | parahippocampal gyrus | uncus | arachnoid mater
+subdural space | epidural space | arachnoid granulation | confluence of sinuses | Willis | olfactory nerve | oculomotor nerve | trochlear nerve | trigeminal nerve | abducens nerve
+facial nerve | vestibulocochlear nerve | glossopharyngeal nerve | vagus nerve | accessory nerve | hypoglossal nerve | periventricular white matter | subcortical white matter | watershed zone | epidural haematoma
+cerebral microbleed | white matter hyperintensity | multiple sclerosis plaque | Dawson finger | leukoencephalopathy | pineocytoma | Dandy-Walker variant | mastoid air cells | middle ear cavity | tympanic membrane
+ossicle | malleus | incus | stapes | semicircular canal | encephalomalacia | gliosis | cerebral atrophy | cortical atrophy | central atrophy
+frontal operculum | parietal operculum | temporal operculum | precentral gyrus | postcentral gyrus | superior frontal gyrus | middle frontal gyrus | inferior frontal gyrus | Broca area | Wernicke area
+angular gyrus | supramarginal gyrus | lateral sulcus | central sulcus | calcarine sulcus | parieto-occipital sulcus | pineal recess | suprapineal recess | infundibular recess | optic recess
+lateral recess of fourth ventricle | foramen of Luschka | Rathke cleft cyst | porencephalic cyst | perivascular space | Virchow-Robin space | cerebral vasculitis | moyamoya disease | cortical vein thrombosis | dural venous sinus thrombosis
+posterior reversible encephalopathy | cerebral hyperperfusion syndrome | Wallerian degeneration | diaschisis | gliotic scar | ventriculitis | Alzheimer disease | frontotemporal dementia | Parkinson disease | multisystem atrophy
+progressive supranuclear palsy | normal pressure hydrocephalus triad | peripheral enhancing lesion | ring-enhancing lesion | open ring sign | central dot sign | dural tail sign | CSF cleft sign | anterior communicating artery aneurysm | posterior communicating artery aneurysm
+middle cerebral artery aneurysm | basilar tip aneurysm | mycotic aneurysm | cerebral salt wasting | temporal horn dilatation | periventricular ooze | transependymal flow | central herniation | brain death | optic nerve sheath
+papilloedema | internal auditory canal mass | acoustic neuroma | glomus jugulare tumour | petrous apex lesion | peripheral nerve sheath tumour | neurofibroma | plexiform neurofibroma | nerve root avulsion | pseudomeningocele
+brachial plexopathy | craniosynostosis | sagittal synostosis | coronal synostosis | lambdoid synostosis | metopic synostosis | plagiocephaly | scaphocephaly | brachycephaly | grey-white differentiation
+loss of grey-white differentiation | sulcal widening | ventricular enlargement | effacement of sulci | effacement of cisterns | midline structures | mass effect on ventricle | compression of brainstem | brainstem compression | tonsillar herniation below foramen magnum
+cerebral perfusion | cerebral blood volume | cerebral blood flow | mean transit time | time to peak | core infarct | perfusion mismatch | demyelinating disease | hepatic encephalopathy | hypoglycaemic encephalopathy
+osmotic demyelination syndrome | epilepsy | seizure focus | mesial temporal sclerosis pattern | cortical tuber | subependymal nodule | traumatic brain injury | concussion | coup injury | contrecoup injury
+skull fracture | linear fracture | diastatic fracture | basilar skull fracture | cerebrospinal fluid leak | CSF rhinorrhoea | CSF otorrhoea | brain tumour recurrence | pseudoprogression | radiation necrosis
+treatment-related change | post-radiation change | leukoencephalopathy post-radiation
+
+[spine]
+central canal | cord signal change | disc space | disc height | vertebral body height | vacuum disc | vacuum phenomenon | pars defect | spina bifida occulta | diastematomyelia
+facet hypertrophy | Pott disease | butterfly vertebra | hemivertebra | block vertebra | Klippel-Feil syndrome | cervicothoracic junction | thoracolumbar junction | lumbosacral junction | atlantodental interval
+basion | opisthion | clivus | odontoid peg | broad-based disc bulge | focal disc protrusion | paracentral disc protrusion | central disc protrusion | foraminal disc protrusion | far lateral disc herniation
+migrated disc fragment | Modic classification | ossification of posterior longitudinal ligament | ossification of ligamentum flavum | Baastrup disease | facet effusion | pars interarticularis defect | spondylotic change | normal lordotic curvature | loss of lordosis
+straightening of the spine | normal disc height maintained | disc space narrowing | loss of disc signal | T2 hypointense disc | nuclear cleft loss | vertebral body height maintained | loss of vertebral height | wedge compression | endplate irregularity
+endplate oedema | Schmorl node formation | facet joint degeneration | ligamentum flavum thickening | nerve root | nerve root sleeve | nerve root displacement | thecal sac effacement | epidural venous plexus
+
+[chest]
+main bronchus | lobar bronchus | segmental bronchus | bronchiole | bronchiolectasis | mucus plugging | bronchopulmonary segment | fissure | pulmonary mass | spiculated margin
+lobulated margin | reverse halo sign | CT halo sign | silicosis | pleural plaque | pleural-based mass | mediastinum | mediastinal mass | infarct | heart
+mitral valve | aortic valve | tricuspid valve | pulmonary valve | myocardium | coronary artery | coronary calcium score | descending aorta | Kerley B line | pulmonary venous congestion
+dextrocardia | azygos vein | hemiazygos vein | thoracic duct | phrenic nerve | oesophageal wall thickening | achalasia | pulmonary sequestration | pulmonary arteriovenous malformation | cor pulmonale
+pectus excavatum | pectus carinatum | rib notching | rib erosion | rib destruction | healing fracture | callus formation | lymph node station | paratracheal station | subcarinal station
+hilar station | prevascular space | lung apex | lung base | retrocardiac region | paraspinal line | azygoesophageal recess | pneumoconiosis | progressive massive fibrosis | silicotic nodule
+Caplan syndrome | talc granulomatosis | eosinophilic pneumonia | necrotising pneumonia | lung abscess | cavitary lesion | tree-in-bud opacity | calcified lymph node | chronic obstructive pulmonary disease | asthma
+constrictive bronchiolitis | respiratory bronchiolitis | lung cancer | non-small cell lung cancer | small cell lung cancer | carcinoid tumour | hamartoma | clear lung fields | clear lung parenchyma | no focal consolidation
+no pleural effusion | no pneumothorax | normal cardiac silhouette | normal mediastinal contour | normal hilar contour | interstitial thickening | septal thickening | crazy paving pattern | nodular opacity | reticular opacity
+reticulonodular pattern | ground-glass haze | air-space opacity | air-space disease | bronchial dilatation | cluster of grapes appearance | diaphragmatic contour | diaphragmatic elevation | diaphragmatic eventration | phrenic nerve palsy
+post-radiation fibrosis | radiation pneumonitis | drug-induced lung disease | chemotherapy-related change | post-surgical change | lobectomy change | pneumonectomy space
+
+[vascular]
+carotid stenosis | intimal thickening | soft plaque | brachiocephalic artery | thoracic aorta | superficial vein thrombosis | thrombus | non-occlusive thrombus | occlusive thrombus | chronic post-thrombotic change
+hepatic vein | internal jugular vein | varicose vein | venous insufficiency | reflux | end diastolic velocity | monophasic waveform | biphasic waveform | triphasic waveform | turbulent flow
+laminar flow | vasculitis | arterial dissection | aortic ulcer | thoracic outlet syndrome | popliteal entrapment syndrome | lymphoedema | lymphangitis | lymphatic malformation | arteriovenous malformation nidus
+external carotid branch | superior thyroid artery | lingual artery | facial artery | occipital artery | maxillary artery | superficial temporal artery | palmar arch | gonadal vein | adrenal vein
+proper hepatic artery | left gastric artery | splenic artery | gastroduodenal artery | superior pancreaticoduodenal artery | middle colic artery | ileocolic artery | marginal artery of Drummond | arc of Riolan | fibromuscular dysplasia string of beads
+aortic coarctation | patent foramen ovale
+
+[abdomen]
+liver | hepatic segment | porta hepatis | intrahepatic duct | gallbladder wall | gallstone | acute cholecystitis | chronic cholecystitis | Murphy sign | pancreas
+pancreatic duct | acute pancreatitis | pancreatic necrosis | intraductal papillary mucinous neoplasm | spleen | stomach | gastric antrum | gastric body | gastric fundus | duodenum
+duodenal bulb | small bowel loop | small bowel wall thickening | appendix | diverticulum | mesentery | mesenteric fat stranding | mesenteric lymphadenopathy | peritoneum | peritoneal thickening
+free fluid | loculated fluid | fluid collection | kidney | renal medulla | renal pyramid | renal calyx | ureteropelvic junction | ureterovesical junction | bladder wall
+adrenal gland | adrenal cortex | adrenal medulla | adrenal nodule | hernial contents | liver metastasis | hepatic haemangioma | hepatic adenoma | hepatic abscess | hepatic cyst
+Meckel diverticulum | Ladd bands | ischaemic bowel | target sign bowel | free air | closed loop obstruction | inflammatory bowel disease | Crohn disease | skip lesion | cobblestoning
+perianal fistula | abscess cavity | gastric ulcer | duodenal ulcer | perforation | gastritis | oesophagitis | Barrett oesophagus | gastro-oesophageal reflux | adenomatous polyp
+hyperplastic polyp | annular constricting lesion | Whipple procedure | cholecystectomy | hepatectomy | splenectomy | colectomy | anastomosis | surgical clip | surgical staple line
+postoperative collection | abscess drain | gastric varices | portosystemic shunt | pancreatic divisum | neuroendocrine tumour | retroperitoneal haematoma | lymphoma bowel | mucocele appendix | normal hepatic echotexture
+normal hepatic parenchyma | homogeneous liver parenchyma | no focal hepatic lesion | normal biliary tree | non-dilated biliary tree | normal common bile duct calibre | normal pancreatic parenchyma | normal pancreatic duct calibre | normal splenic size | normal splenic echotexture
+normal bowel calibre | normal bowel wall thickness | no bowel wall thickening | normal bowel gas pattern | non-dilated bowel loops | no free air | no lymphadenopathy | normal renal size | normal renal echotexture | normal corticomedullary differentiation
+no hydronephrosis | no renal calculus | normal bladder wall | normal bladder capacity
+
+[gu]
+prostate gland | prostatic urethra | seminal vesicle | vas deferens | prostate capsule | extracapsular extension | prostate cancer | Gleason score | epididymal head | epididymal tail
+spermatic cord | testicular mass | bladder calculus | neurogenic bladder | duplicated collecting system | medullary sponge kidney | renal scarring | perinephric abscess | renal vein thrombosis | posterior urethral valve
+vesicoureteric junction obstruction | pelviureteric junction obstruction | megaureter | renal pseudotumour | column of Bertin | dromedary hump | renal sinus fat | renal sinus lipomatosis | parapelvic cyst | peripelvic cyst
+papillary tumour | bladder wall thickening focal | neurogenic bladder pattern | testicular microlithiasis pattern | testicular appendage torsion | normal prostate size | normal prostate volume | normal peripheral zone signal | no focal prostatic lesion | normal testicular echotexture
+normal testicular volume | normal epididymis
+
+[gynae]
+uterus | uterine fundus | uterine body | uterine cervix | endometrial stripe | endometrial cavity | uterine serosa | ovary | ovarian follicle | ovarian cyst
+simple cyst | complex cyst | septated cyst | polycystic ovary | ovarian mass | fallopian tube | salpingitis | cervix | cervical stroma | vagina
+vaginal cuff | vesicouterine pouch | Mullerian duct anomaly | Mullerian agenesis | Mayer-Rokitansky-Kuster-Hauser syndrome | endometriosis | chocolate cyst | adnexal mass | normal uterine size | normal endometrial thickness
+normal endometrial echotexture | normal myometrial echotexture | normal ovarian size | normal ovarian volume | normal follicular pattern | no adnexal mass | no free fluid in the pouch of Douglas
+
+[pelvic-floor]
+puborectalis sling | rectal intussusception | defecography | straining phase | evacuation phase | rest phase | squeeze phase
+
+[obstetric]
+amnion | chorion | placenta | placental location | placental grade | umbilical artery | umbilical vein | cord around neck | Wharton jelly | growth restriction
+posterior fossa | lateral ventricle atrium | systolic-diastolic ratio | resistance index | outflow tract | situs | cervical incompetence | first trimester | second trimester | third trimester
+dating scan | non-stress test | breech presentation | cephalic presentation | multiple pregnancy | monochorionic twins | selective growth restriction | talipes | clenched hand | Down syndrome marker
+station | presenting part | fetal lie | fetal presentation | Bishop score | cervical dilatation | normal fetal biometry | normal amniotic fluid volume | normal placental location | normal placental appearance
+normal umbilical cord insertion | normal fetal anatomy survey | no structural abnormality detected | normal fetal movement | normal fetal tone | normal fetal heart rate pattern | reassuring biophysical profile
+
+[breast]
+breast parenchyma | glandular tissue | fatty tissue | breast density | terminal duct lobular unit | nipple | areola | retroareolar region | breast mass | circumscribed mass
+indistinct margin | microlobulated margin | oval shape | round shape | irregular shape | non-parallel orientation | microcalcification | coarse calcification | pleomorphic calcification | fine linear calcification
+clustered calcification | regional distribution | diffuse distribution | cyst | complex cystic and solid mass | ductal ectasia | lobular carcinoma in situ | axillary lymph node | BI-RADS category | implant
+implant rupture | silicone implant | saline implant | capsular contracture | seroma around implant | mammographic density | scattered fibroglandular density | tomosynthesis finding | distortion | mass with calcification
+normal fibroglandular pattern | no suspicious mass | no suspicious calcification | no architectural distortion | stable benign-appearing finding | probably benign finding
+
+[head-neck]
+thyroid gland | thyroid lobe | thyroid isthmus | thyroiditis | Hashimoto thyroiditis | parathyroid gland | salivary gland | sublingual gland | salivary duct | sialolithiasis
+sialadenitis | pleomorphic adenoma | Warthin tumour | epiglottis | vocal cord | piriform sinus | tonsil | adenoid | paranasal sinus | ethmoid sinus
+nasal septum | turbinate | mucous retention cyst | polyp | cervical lymph node | level I lymph node | level II lymph node | level III lymph node | level IV lymph node | level V lymph node
+lymph node necrosis | extraocular muscle | retro-orbital fat | ranula | laryngocele | Zenker diverticulum | glomus tumour | odontogenic cyst | periapical cyst | ameloblastoma
+temporomandibular joint disc | disc displacement
+
+[pediatric]
+ossification centre | bucket-handle fracture | rib fracture pattern | pyloric stenosis | Wilms tumour | neuroblastoma | hepatoblastoma | retinoblastoma
+
+[interventional]
+guidewire | catheter | sheath | pigtail catheter | drainage catheter | biopsy needle | fine-needle aspiration | coaxial technique | Seldinger technique | angioplasty
+balloon angioplasty | stent | embolisation | coil embolisation | particle embolisation | chemoembolisation | radiofrequency ablation | microwave ablation | cryoablation | nephrostomy
+percutaneous nephrostomy | biliary drain | percutaneous transhepatic cholangiography | thrombolysis | inferior vena cava filter | central line | PICC line | port-a-cath | Seldinger access | micropuncture set
+introducer sheath | angiographic catheter | selective catheterisation | superselective catheterisation | digital subtraction angiography | roadmap imaging | post-embolisation syndrome | ablation zone | safety margin | track embolisation
+
+[core]
+standardised uptake value | SUV max | tracer uptake | physiological uptake | radiotracer | fludeoxyglucose | FDG PET | bone scan | technetium | hot spot
+cold spot | flare phenomenon | photopenic area | symptomatic | asymptomatic | incidental finding | interval change | no interval change | stable appearance | progressive
+regressive | resolving | resolved | new since prior | redemonstrated | unchanged in size | increased in size | decreased in size | slightly increased | slightly decreased
+grossly stable | acute | subacute | chronic | chronic-appearing | longstanding | active | inactive | quiescent | superimposed acute on chronic
+benign-appearing | malignant-appearing | probably benign | suspicious | highly suspicious | low suspicion | high suspicion | equivocal | non-specific | likely reactive
+likely physiological | focal | diffuse | multifocal | patchy | confluent | scattered | solitary | multiple | innumerable
+numerous | few | several | bilateral symmetric | bilateral asymmetric | mild | moderate | severe | marked | gross
+minimal | trace | small | large | extensive | limited | localised | generalised | proximal | distal
+superior | inferior | anterior | posterior | medial | lateral | superficial | deep | central | peripheral
+cranial | caudal | rostral | ventral | dorsal | right-sided | left-sided | midline | paramedian | off-midline
+crossing the midline | artefact | motion artefact | beam-hardening artefact | streak artefact | partial volume artefact | aliasing artefact | chemical shift artefact | truncation artefact | pulsation artefact
+metal artefact | technically adequate | technically limited | non-diagnostic | satisfactory study | suboptimal study | degraded by motion | limited by body habitus | limited by bowel gas | contrast agent
+gadolinium-based contrast agent | barium contrast | oral contrast | rectal contrast | intravenous contrast | contrast reaction | contrast-induced nephropathy | nephrogenic systemic fibrosis | allergic-like reaction | arterial phase
+late arterial phase | venous phase | delayed phase | dynamic imaging | time-intensity curve | type 1 curve | type 2 curve | type 3 curve | field of view | slice thickness
+reconstruction interval | window width | window level | signal-to-noise ratio | spatial resolution | temporal resolution | history of trauma | history of fever | history of pain | acute onset
+insidious onset | progressive worsening | known case of | post-operative follow-up | post-treatment follow-up | surveillance imaging | screening examination | diagnostic dilemma | clinical suspicion of | rule out
+for evaluation of | referred for | presenting with | comparison made with | no prior imaging available for comparison | compared to outside study | limited comparison | correlate clinically | correlate with laboratory findings | follow-up recommended
+short-interval follow-up | routine follow-up advised | biopsy recommended | further characterisation recommended | multidisciplinary discussion advised | mass lesion | space-occupying lesion | expansile lesion | infiltrating lesion | destructive lesion
+erosive lesion | remodelling | cortical breach | cortical destruction | sunburst periosteal reaction | soft tissue extension | soft tissue component | oedema | inflammation | inflammatory change
+adhesion | calcific density | ossific density | lucency | sclerosis | lytic destruction | signal void | susceptibility effect | blooming artefact | enhancement pattern
+washout pattern | progressive enhancement | persistent enhancement | plateau pattern | time-signal intensity curve | axial plane | coronal plane | sagittal plane | oblique plane | true axial
+reformatted image | localiser image | scout image | topogram | supine position | prone position | left lateral decubitus | right lateral decubitus | erect position | recumbent position
+Trendelenburg position | breath-hold | free breathing | respiratory motion | cardiac motion | gating | triggering | single-shot sequence | fast spin echo | turbo spin echo
+gradient echo sequence | echo planar imaging | balanced steady-state free precession | volumetric interpolated sequence | black-blood sequence | bright-blood sequence | haematoma organised | liquefaction | caseation | granuloma
+fibrotic band | reactive change | degenerative change | senescent change | involutional change | lymph node reactive | lymph node necrotic | lymph node matted | lymph node calcified | lymph node enlarged
+round-to-oval ratio | normal in calibre | normal in course | normal in signal | normal in attenuation | normal in echotexture | maintained | preserved | no abnormality detected | no acute abnormality
+no significant abnormality | grossly unremarkable | essentially normal | physiological | within physiological limits | normal caliber | normal contour | smooth contour | regular contour | irregular contour
+normal outline | intact | disrupted | discontinuous | continuous | patent | non-patent | occluded | partially occluded | widely patent
+well seen | clearly seen | poorly seen | not well visualised | not adequately assessed | partially obscured | difficult to assess | cannot be reliably assessed | beyond the field of view | not included in the field of view
+outside the scanned region | appears normal | appears unremarkable | appears grossly normal | no definite abnormality | no focal abnormality identified | no significant interval change | no new lesion | no evidence of | no radiographic evidence of
+no sonographic evidence of | no CT evidence of | no MRI evidence of | in keeping with | in keeping with the clinical history | correlates with | corresponds to | consistent with the given history | non-specific finding of uncertain significance | likely incidental
+likely artefactual | likely represents | probably represents | normal size | normal configuration | normal position | normal location | normal orientation | no displacement | mild displacement
+significant displacement | malposition | malalignment | normal alignment | diagnosis | differential diagnosis | working diagnosis | provisional diagnosis | final diagnosis | impression
+conclusion | summary | recommendation | clinical correlation | further evaluation | additional imaging | dedicated imaging | repeat imaging | comparison study | baseline study
+follow-up study | sensitivity | specificity | positive predictive value | negative predictive value | diagnostic accuracy | diagnostic yield | false positive | false negative | true positive
+true negative | inter-observer variability | reproducibility | staging | grading | prognosis | surveillance | screening | triage | risk stratification
+multidisciplinary team | tumour board | second opinion | biopsy proven | histopathologically confirmed | cytologically confirmed | pending histopathology | awaiting biopsy result | clinically silent | clinically significant
+clinically insignificant | incidental note is made of | malignant | benign | premalignant | borderline | indeterminate nature | metastatic | primary tumour | secondary deposit
+local recurrence | distant recurrence | residual disease | no residual disease | complete response | partial response | stable disease | progressive disease | inflammatory | infective
+infectious | non-infectious | granulomatous | reactive | degenerative | congenital | acquired | traumatic | iatrogenic | idiopathic
+autoimmune | neoplastic | non-neoplastic | vascular in origin | ischaemic | cystic in nature | solid in nature | necrotising fasciitis | gas gangrene | emphysematous change
+foreign body | retained foreign body | surgical sponge | calcified foreign body | haematoma acute | haematoma subacute | haematoma chronic | resolving haematoma | organising haematoma | seroma formation
+lymphocele formation | ischaemia | infarction | reperfusion injury | watershed ischaemia | venous congestion | venous infarction | dysplasia | hyperplasia | hypertrophy
+atrophy | metaplasia | neoplasia | anaplasia | dedifferentiation
+
+[classification]
+TNM staging | FIGO staging | Child-Pugh classification | Milan criteria | Lung-RADS category | Bosniak category | ASA classification | Gleason grade group | Breslow depth | Ann Arbor staging
+Cotswolds classification | Ottawa ankle rules | Weber classification | AO classification | Lauge-Hansen classification | Nurick grade | Fisher grade | Hunt and Hess grade | ASPECTS score | TIMI classification
+RECIST criteria | Choi criteria | CTKUB | ERCP | VCUG | SPECT-CT | WBCT | Lansky score | Karnofsky score | ECOG performance status
+WHO grade | Ki-67 index | BCLC staging | Barcelona Clinic Liver Cancer staging | Rai staging | Durie-Salmon staging | Pugh score | MELD score | APACHE score | Injury Severity Score
+Fleischner Society guideline | Wells score | CHA2DS2-VASc score | Alvarado score | RIPASA score
