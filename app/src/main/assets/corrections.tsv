@@ -1,0 +1,369 @@
+# RadVoice built-in correction table: heard<TAB>written
+# Applied after spoken commands, before lexicon casing. Longest phrase wins. User table overrides these.
+# Matching is case-insensitive and tolerant of space/hyphen differences.
+
+# --- classic radiology mishearings
+plural effusion	pleural effusion
+plural effusions	pleural effusions
+plural thickening	pleural thickening
+plural based	pleural-based
+plural	pleural
+disc desecration	disc desiccation
+disk desecration	disc desiccation
+desecration	desiccation
+disk	disc
+disks	discs
+the cal sac	thecal sac
+the cal sack	thecal sac
+fecal sac	thecal sac
+thecal sack	thecal sac
+gestational sack	gestational sac
+yolk sack	yolk sac
+yoke sac	yolk sac
+yoke sack	yolk sac
+sack	sac
+cist	cyst
+cists	cysts
+legion	lesion
+legions	lesions
+nuclear translucency	nuchal translucency
+nuclear fold	nuchal fold
+nuclear cord	nuchal cord
+new call translucency	nuchal translucency
+pelvic calyceal	pelvicalyceal
+pelvi calyceal	pelvicalyceal
+pelvicaliceal	pelvicalyceal
+cortical medullary	corticomedullary
+cortico medullary	corticomedullary
+communicated fracture	comminuted fracture
+communicated	comminuted
+lithic lesion	lytic lesion
+lithic	lytic
+rental	renal
+planter	plantar
+planter fascia	plantar fascia
+hyper intense	hyperintense
+hypo intense	hypointense
+iso intense	isointense
+hyper dense	hyperdense
+hypo dense	hypodense
+iso dense	isodense
+hyper echoic	hyperechoic
+hypo echoic	hypoechoic
+iso echoic	isoechoic
+an echoic	anechoic
+and echoic	anechoic
+unechoic	anechoic
+hyper attenuating	hyperattenuating
+hypo attenuating	hypoattenuating
+hyper enhancement	hyperenhancement
+hetero genius	heterogeneous
+heterogenous	heterogeneous
+homo genius	homogeneous
+homogenous	homogeneous
+hetero genously	heterogeneously
+homogenously	homogeneously
+hetero echoic	heteroechoic
+echo texture	echotexture
+echo genic	echogenic
+echo genicity	echogenicity
+
+# --- prefixes split by the recogniser
+sub capsular	subcapsular
+sub chondral	subchondral
+sub cutaneous	subcutaneous
+sub mucosal	submucosal
+sub serosal	subserosal
+sub arachnoid	subarachnoid
+sub dural	subdural
+sub segmental	subsegmental
+sub pleural	subpleural
+sub diaphragmatic	subdiaphragmatic
+sub centimetre	subcentimetre
+sub centimeter	subcentimetre
+intra hepatic	intrahepatic
+intra abdominal	intra-abdominal
+intra axial	intra-axial
+intra cranial	intracranial
+intra luminal	intraluminal
+intra mural	intramural
+intra uterine	intrauterine
+intra ventricular	intraventricular
+intra articular	intra-articular
+extra axial	extra-axial
+extra hepatic	extrahepatic
+extra uterine	extrauterine
+retro peritoneal	retroperitoneal
+retro peritoneum	retroperitoneum
+retro verted	retroverted
+retro flexed	retroflexed
+retro vesical	retrovesical
+retro placental	retroplacental
+peri portal	periportal
+peri renal	perirenal
+peri nephric	perinephric
+peri hepatic	perihepatic
+peri pancreatic	peripancreatic
+peri ventricular	periventricular
+peri articular	periarticular
+peri appendiceal	periappendiceal
+periappendicular	periappendiceal
+peri appendicular	periappendiceal
+peri cholecystic	pericholecystic
+peri lesional	perilesional
+para vertebral	paravertebral
+para spinal	paraspinal
+para aortic	para-aortic
+para sagittal	parasagittal
+para pharyngeal	parapharyngeal
+para ovarian	paraovarian
+para cardiac	paracardiac
+post contrast	post-contrast
+pre contrast	pre-contrast
+post operative	postoperative
+pre operative	preoperative
+post op	postoperative
+cysto cele	cystocele
+recto cele	rectocele
+entero cele	enterocele
+sigmoido cele	sigmoidocele
+hydro cele	hydrocele
+vari cocele	varicocele
+vari co seal	varicocele
+meningo cele	meningocele
+myelo meningocele	myelomeningocele
+omphalo cele	omphalocele
+hepato megaly	hepatomegaly
+spleno megaly	splenomegaly
+hepato spleno megaly	hepatosplenomegaly
+cardio megaly	cardiomegaly
+ventriculo megaly	ventriculomegaly
+hydro nephrosis	hydronephrosis
+hydro ureter	hydroureter
+hydro ureteronephrosis	hydroureteronephrosis
+hydro salpinx	hydrosalpinx
+pyo salpinx	pyosalpinx
+haemato salpinx	haematosalpinx
+hemato salpinx	haematosalpinx
+haemato metra	haematometra
+hemato metra	haematometra
+hydro cephalus	hydrocephalus
+chole lithiasis	cholelithiasis
+choledocho lithiasis	choledocholithiasis
+nephro lithiasis	nephrolithiasis
+uro lithiasis	urolithiasis
+spondylo listhesis	spondylolisthesis
+spondylo lysis	spondylolysis
+spondylo sis	spondylosis
+retro listhesis	retrolisthesis
+antero listhesis	anterolisthesis
+osteo phytes	osteophytes
+osteo phyte	osteophyte
+osteo myelitis	osteomyelitis
+osteo necrosis	osteonecrosis
+adeno myosis	adenomyosis
+endo metrioma	endometrioma
+endo metriosis	endometriosis
+endo metrial	endometrial
+endo metrium	endometrium
+myo metrium	myometrium
+myo metrial	myometrial
+lymph adenopathy	lymphadenopathy
+lymph adenopathies	lymphadenopathy
+thrombo sis	thrombosis
+athero sclerotic	atherosclerotic
+bronchi ectasis	bronchiectasis
+broncho ectasis	bronchiectasis
+at electasis	atelectasis
+consoli dation	consolidation
+pneumo thorax	pneumothorax
+hydro pneumothorax	hydropneumothorax
+pneumo peritoneum	pneumoperitoneum
+pneumo mediastinum	pneumomediastinum
+haemo thorax	haemothorax
+hemo thorax	haemothorax
+haemo peritoneum	haemoperitoneum
+hemo peritoneum	haemoperitoneum
+leio myoma	leiomyoma
+fibro adenoma	fibroadenoma
+angio myolipoma	angiomyolipoma
+haem angioma	haemangioma
+hem angioma	haemangioma
+cholang iocarcinoma	cholangiocarcinoma
+hepato cellular carcinoma	hepatocellular carcinoma
+encephalo malacia	encephalomalacia
+leuko encephalopathy	leukoencephalopathy
+leuco encephalopathy	leukoencephalopathy
+glee osis	gliosis
+
+# --- MR / technique terms
+flare sequence	FLAIR sequence
+flare images	FLAIR images
+flare hyperintensity	FLAIR hyperintensity
+flare	FLAIR
+t one	T1
+tee one	T1
+t two	T2
+tee two	T2
+t one weighted	T1-weighted
+t two weighted	T2-weighted
+t 1 weighted	T1-weighted
+t 2 weighted	T2-weighted
+t2 star	T2*
+t two star	T2*
+d w i	DWI
+a d c	ADC
+s w i	SWI
+g r e	GRE
+s t i r	STIR
+d t i	DTI
+m r a	MRA
+m r v	MRV
+m r c p	MRCP
+c t a	CTA
+h r c t	HRCT
+m r i	MRI
+c t scan	CT scan
+u s g	USG
+n c c t	NCCT
+c e c t	CECT
+tr us	TRUS
+t v s	TVS
+t a s	TAS
+trans vaginal	transvaginal
+trans abdominal	transabdominal
+trans rectal	transrectal
+trans perineal	transperineal
+trans labial	translabial
+color doppler	colour Doppler
+
+# --- classification systems
+bye rads	BI-RADS
+buy rads	BI-RADS
+by rads	BI-RADS
+bi rads	BI-RADS
+be rads	BI-RADS
+tie rads	TI-RADS
+tea rads	TI-RADS
+tee rads	TI-RADS
+ti rads	TI-RADS
+pie rads	PI-RADS
+pi rads	PI-RADS
+lie rads	LI-RADS
+lee rads	LI-RADS
+li rads	LI-RADS
+oh rads	O-RADS
+o rads	O-RADS
+lung rads	Lung-RADS
+c rads	C-RADS
+bosniac	Bosniak
+boz knee ak	Bosniak
+bosnia	Bosniak
+flights nur	Fleischner
+re cist	RECIST
+eye ota	IOTA
+i o t a	IOTA
+
+# --- eponyms / named anatomy
+morisons pouch	Morison's pouch
+morrisons pouch	Morison's pouch
+morrison's pouch	Morison's pouch
+morisons	Morison's pouch
+foramen of monroe	foramen of Monro
+foramen of munro	foramen of Monro
+ewings sarcoma	Ewing sarcoma
+ewing's sarcoma	Ewing sarcoma
+riglers sign	Rigler sign
+rigler's sign	Rigler sign
+riglers	Rigler sign
+hirsch sprung	Hirschsprung
+hirschsprungs	Hirschsprung
+arnold chiari	Arnold–Chiari
+dandy walker	Dandy–Walker
+dandy walker malformation	Dandy–Walker malformation
+virchow robin	Virchow–Robin
+schmorls node	Schmorl node
+schmorl's node	Schmorl node
+schmorls nodes	Schmorl nodes
+baker's cyst	Baker cyst
+bakers cyst	Baker cyst
+meckels diverticulum	Meckel diverticulum
+meckel's diverticulum	Meckel diverticulum
+wilms tumor	Wilms tumour
+hashimotos	Hashimoto
+hashimoto's thyroiditis	Hashimoto thyroiditis
+kohn's pores	pores of Kohn
+hill sachs	Hill–Sachs
+hill sacks	Hill–Sachs
+fear man	Pfirrmann
+fuzz a kiss	Fazekas
+
+# --- obstetric / fetal
+oligo hydramnios	oligohydramnios
+poly hydramnios	polyhydramnios
+an hydramnios	anhydramnios
+oligo hydramnious	oligohydramnios
+poly hydramnious	polyhydramnios
+cerebro placental ratio	cerebroplacental ratio
+cerebral placental ratio	cerebroplacental ratio
+s by d ratio	S/D ratio
+s d ratio	S/D ratio
+s slash d ratio	S/D ratio
+cavum septum pellucidum	cavum septi pellucidi
+cavum septi pellucidum	cavum septi pellucidi
+cisterna magnum	cisterna magna
+bi parietal diameter	biparietal diameter
+b p d	BPD
+e f w	EFW
+a f i	AFI
+c r l	CRL
+m c a	MCA
+p s v	PSV
+duct us venosus	ductus venosus
+ductus venosis	ductus venosus
+umbilical artery p i	umbilical artery PI
+m c a p s v	MCA PSV
+fetal echo	fetal echocardiography
+i u g r	IUGR
+f g r	FGR
+s g a	SGA
+l g a	LGA
+placenta previa	placenta praevia
+low lying placenta	low-lying placenta
+retro placental	retroplacental
+di chorionic	dichorionic
+mono chorionic	monochorionic
+di amniotic	diamniotic
+mono amniotic	monoamniotic
+twin peak sign	twin-peak sign
+p c p n d t	PCPNDT
+
+# --- pelvic floor
+pubo rectalis	puborectalis
+ano rectal junction	anorectal junction
+p c line	PCL
+pubo coccygeal line	pubococcygeal line
+h line	H-line
+m line	M-line
+h m o	HMO
+
+# --- misc common mishearings
+coolest thesis	cholecystitis
+cole cystitis	cholecystitis
+kohli cystitis	cholecystitis
+appendix citis	appendicitis
+die verticulitis	diverticulitis
+eggs sudate	exudate
+x sudate	exudate
+trans sudate	transudate
+pre vertebral	prevertebral
+thyroid ectomy	thyroidectomy
+hysterec tomy	hysterectomy
+cole ecystectomy	cholecystectomy
+speculated	spiculated
+speculated margins	spiculated margins
+calcify cation	calcification
+micro calcifications	microcalcifications
+micro calcification	microcalcification
+paren kima	parenchyma
+paranchyma	parenchyma
